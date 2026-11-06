@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm IYAMPAYE RIBERT 👋
 
-<!--
-**IYAMPAYE/IYAMPAYE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Scientist | Applied Statistics | Machine Learning
 
-Here are some ideas to get you started:
+I am a Statistics and Data Science professional passionate about turning complex data into actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests include statistical modelling, machine learning, data visualization, and building practical data-driven solutions to real-world problems.
+
+### Technical Skills
+- **Programming:** R, Python
+- **Data Analysis:** Statistical Modelling, Data Analysis
+- **Visualization:** Power BI, Excel
+- **Interests:** Machine Learning, Artificial Intelligence, Data Science
+
+### Connect With Me
+
+- 🌐 **Portfolio:** https://iyampaye.github.io/ribertportfolio/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ribert-iyampaye/
+- 🐙 **GitHub:** https://github.com/IYAMPAYE
+
+---
+
+*Turning complex data into actionable insights.*
